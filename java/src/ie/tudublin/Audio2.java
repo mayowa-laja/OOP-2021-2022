@@ -8,8 +8,15 @@ import ddf.minim.analysis.FFT;
 import processing.core.PApplet;
 
 /*
+<<<<<<< HEAD
 The infinite number of waves make up the mind, and all minds are made up of these waves which then interact with one another to form reality via Fourier transformations
 Science is not supposed to give meaning to ones life or the reason behind their existence; science only explains the testable and provable mechanisms that run the universe
+=======
+
+The infinite number of waves make up the mind, and all minds are made up of these waves which then interact with one another to form reality via Fourier transformations
+Science is not supposed to give meaning to ones life or the reason behind their existence; science only explains the testable and provable mechanisms that run the universe
+
+>>>>>>> 51779e88c5f70100bbc46691d11b90cfec6b4f41
 */
 
 public class Audio2 extends PApplet
